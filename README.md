@@ -34,10 +34,12 @@ The following **required** functionality is complete:
 
 Add your screen recordings for specified implemented features here:
 ![losing screen recording](https://www.loom.com/share/9586f84172de4f34ade260e3638f91b1)
+If that doesnt work here is teh link https://www.loom.com/share/9586f84172de4f34ade260e3638f91b1 
 
 ## Interview Recording URL Link
 
 ![My 5-minute Interview Recording](https://www.loom.com/share/28c27a22f05a4ea0aa129d67dbcd22f0)
+if that doesnt work, here https://www.loom.com/share/28c27a22f05a4ea0aa129d67dbcd22f0 
 
 
 ## License
